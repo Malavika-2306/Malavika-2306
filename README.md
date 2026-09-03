@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi 👋 I'm Malavika
 
-<!--
-**Malavika-2306/Malavika-2306** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Aspiring Software Engineer
 
-Here are some ideas to get you started:
+### 🚀 About Me
+- 🌱 Currently learning Java and Data Structures & Algorithms
+- 💻 Interested in Full-Stack Web Development
+- 🧩 Practicing DSA regularly
+- 🚀 Building real-world projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills
+- Java
+- Python
+- HTML
+- CSS
+- React.js
+- Node.js
+- Express.js
+- MongoDB
+- Git & GitHub
+- Power BI
+
+### 📌 Current Focus
+- Data Structures & Algorithms
+- Full-Stack Development
+- Building projects
