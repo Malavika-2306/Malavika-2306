@@ -1,76 +1,61 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:6c757d&height=200&section=header&text=Malavika.M&fontSize=45&fontColor=ffffff&animation=fadeIn&desc=Aspiring%20Software%20Engineer%20|%20Java%20|%20DSA%20|%20Full-Stack&descAlignY=65&descSize=18" />
+<table>
+<tr>
+<td width="150">
+<img src="https://avatars.githubusercontent.com/u/227740593?v=4" width="140" style="border-radius:50%"/>
+</td>
+<td>
+
+# Malavika M
+<i>Aspiring Software Engineer, crafting things with Java & the full stack.</i>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+> "Currently deep in Data Structures & Algorithms, and building full-stack apps that actually work."
+
+<br/>
+
+## 🗺️ My Journey
+
+```
+2023 ──▶ Started B.Tech, KIT - Kalaignar Karunanidhi Institute of Technology
+2024 ──▶ Picked up Java & began solving DSA problems on LeetCode
+2025 ──▶ Moved into Full-Stack Development — React, Node, MongoDB
+2026 ──▶ Building real projects: CampusEvent, Todo-App, and more
+```
+
+## 💬 What I'm About
+
+**By day:** working through DSA problems on LeetCode and CodeChef
+**By project:** building full-stack apps — React on the front, Node + MongoDB on the back
+**Right now:** deep in `DSA-practice`, sharpening problem-solving skills daily
+
+## 🧰 Toolkit
+
+`Java` · `Python` · `HTML` · `CSS` · `React.js` · `Node.js` · `Express.js` · `MongoDB` · `Git` · `GitHub` · `Power BI`
+
+## 📂 Things I've Built
+
+| Project | What it does |
+|---|---|
+| [CampusEvent](https://github.com/Malavika-2306/CampusEvent) | Campus event management app |
+| [Todo-App](https://github.com/Malavika-2306/Todo-App) | Task management, built in JavaScript |
+| [Kitproject](https://github.com/Malavika-2306/Kitproject) | JavaScript project |
+| [DSA-practice](https://github.com/Malavika-2306/DSA-practice) | Ongoing DSA solutions in Java |
+
+## 🔗 Find Me
+
+<a href="https://linkedin.com/in/malavika-m-80604a378">LinkedIn</a> · <a href="https://leetcode.com/u/Malavikamanikandan/">LeetCode</a> · <a href="https://www.codechef.com/users/kit28abd092">CodeChef</a> · <a href="https://codolio.com/profile/Malavika_">Codolio</a>
+
+<br/>
 
 <div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=Malavika-2306&color=0A66C2&style=flat-square&label=Profile+Views)
-![Followers](https://img.shields.io/github/followers/Malavika-2306?style=flat-square&color=0A66C2&label=Followers)
-![Stars](https://img.shields.io/github/stars/Malavika-2306?style=flat-square&color=FFA116&label=Stars)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/malavika-m-80604a378)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Malavikamanikandan/)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/kit28abd092)
-[![Codolio](https://img.shields.io/badge/Codolio-343a40?style=for-the-badge)](https://codolio.com/profile/Malavika_)
-
-</div>
-
----
-
-### 🧠 About Me
-
-🌱 Learning **Java** & **DSA** &nbsp;|&nbsp; 💻 Building **Full-Stack** apps &nbsp;|&nbsp; 🧩 Solving problems on LeetCode & CodeChef &nbsp;|&nbsp; 🎓 KIT - Kalaignar Karunanidhi Institute of Technology
-
----
-
-### ⚙️ Tech Stack
-
-<p>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-</p>
-
----
-
-### 📊 GitHub Dashboard
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Malavika-2306&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Malavika-2306&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Malavika-2306&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Malavika-2306&theme=tokyo-night&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Malavika-2306&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
----
-
-### 🚀 Featured Projects
-
-<p>
-<a href="https://github.com/Malavika-2306/CampusEvent"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Malavika-2306&repo=CampusEvent&theme=tokyonight&hide_border=true" /></a>
-<a href="https://github.com/Malavika-2306/Todo-App"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Malavika-2306&repo=Todo-App&theme=tokyonight&hide_border=true" /></a>
-<a href="https://github.com/Malavika-2306/DSA-practice"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Malavika-2306&repo=DSA-practice&theme=tokyonight&hide_border=true" /></a>
-</p>
-
----
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="80%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Malavika-2306&show_icons=true&theme=default&hide_border=true&bg_color=ffffff" height="150"/>
 </div>
 
 <div align="center">
-<sub>⚡ Thanks for visiting — let's build something great!</sub>
+<sub>Thanks for reading — always open to connect and collaborate.</sub>
 </div>
