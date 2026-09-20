@@ -6,7 +6,8 @@
 <td>
 
 # Malavika M
-<i>Aspiring Software Engineer, crafting things with Java & the full stack.</i>
+
+<img src="https://readme-typing-svg.demolab.com/?font=Georgia&size=18&pause=1000&color=2C3E50&center=false&vCenter=true&width=500&lines=Aspiring+Software+Engineer;Crafting+things+with+Java+%26+the+full+stack;Currently+deep+in+DSA+%F0%9F%9A%80" />
 
 </td>
 </tr>
